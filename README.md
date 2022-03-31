@@ -28,10 +28,10 @@ Buatlah program data buku berbasis GUI menggunakan bahasa java.
 ![alt text](https://github.com/Ahmad1321/TP1DPBO2022/blob/main/ss/add_author.png)  
 
 - Edit Buku  
-![alt text](https://github.com/Ahmad1321/TPDPBO2022/blob/main/ss/edit_buku.png)  
+![alt text](https://github.com/Ahmad1321/TP1DPBO2022/blob/main/ss/edit_buku.png)  
 
 - Edit Author  
-![alt text](https://github.com/Ahmad1321/TPDPBO2022/blob/main/ss/edit_author.png) 
+![alt text](https://github.com/Ahmad1321/TP1DPBO2022/blob/main/ss/edit_author.png) 
  
 
 
