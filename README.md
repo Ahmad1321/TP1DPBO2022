@@ -15,20 +15,23 @@ Buatlah program data buku berbasis GUI menggunakan bahasa java.
 - java
 
 ## Hasil Eksekusi
-- Data 1  
-![alt text](https://github.com/Ahmad1321/TP1DPBO2022/blob/main/ss/1.png)  
+- Form Buku  
+![alt text](https://github.com/Ahmad1321/TP1DPBO2022/blob/main/ss/buku.png)  
   
-- Data 2  
-![alt text](https://github.com/Ahmad1321/TP1DPBO2022/blob/main/ss/2.png)  
+- Form Author  
+![alt text](https://github.com/Ahmad1321/TP1DPBO2022/blob/main/ss/author.png)  
 
-- Data 3  
-![alt text](https://github.com/Ahmad1321/TP1DPBO2022/blob/main/ss/3.png)   
+- Add Buku    
+![alt text](https://github.com/Ahmad1321/TP1DPBO2022/blob/main/ss/add_buku.png)   
 
-- Data 4  
-![alt text](https://github.com/Ahmad1321/TP1DPBO2022/blob/main/ss/4.png)  
+- Add Author  
+![alt text](https://github.com/Ahmad1321/TP1DPBO2022/blob/main/ss/add_author.png)  
 
-- Data 5  
-![alt text](https://github.com/Ahmad1321/TPDPBO2022/blob/main/ss/5.png)  
+- Edit Buku  
+![alt text](https://github.com/Ahmad1321/TPDPBO2022/blob/main/ss/edit_buku.png)  
+
+- Edit Author  
+![alt text](https://github.com/Ahmad1321/TPDPBO2022/blob/main/ss/edit_author.png) 
  
 
 
